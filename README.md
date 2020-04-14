@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## To Run Locally
-Clone the project
-Run "npm i" to install all the required node modules
-Run "npm start" to run the project and navigate to localhost:3000
+Clone the project.<br/>
+Run "npm i" to install all the required node modules.<br/>
+Run "npm start" to run the project and navigate to localhost:3000.<br/>
 
 ## Available Scripts
 
